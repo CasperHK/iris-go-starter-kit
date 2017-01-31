@@ -1,1 +1,1 @@
-# iris-go-starter-kit
+# Iris Go Starter Kit
